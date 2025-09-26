@@ -2,9 +2,7 @@ streamlit==1.49.1
 requests==2.32.3
 newspaper3k==0.2.8
 python-dotenv==1.0.1
-
-# ddg search
-duckduckgo-search==5.3.1b1  # this package provides `ddgs`
+duckduckgo-search==6.3.1
 
 # newspaper3k dependencies
 beautifulsoup4==4.12.3
