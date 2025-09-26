@@ -80,4 +80,4 @@ To test the Deep Research Assistant, follow these steps:
 
 👤 Author
 -------
-The Deep Research Assistant was developed by [Tuhin108]([[https://example.com](https://github.com/Tuhin108)]).
+The Deep Research Assistant was developed by [Tuhin108](https://github.com/Tuhin108).
