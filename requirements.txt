@@ -3,6 +3,9 @@ requests==2.32.3
 newspaper3k==0.2.8
 python-dotenv==1.0.1
 
+# ddg search
+duckduckgo-search==5.3.1b1  # this package provides `ddgs`
+
 # newspaper3k dependencies
 beautifulsoup4==4.12.3
 cssselect==1.2.0
