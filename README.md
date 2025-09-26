@@ -81,7 +81,3 @@ To test the Deep Research Assistant, follow these steps:
 👤 Author
 -------
 The Deep Research Assistant was developed by [Tuhin]([https://example.com](https://github.com/Tuhin108)).
-
-📝 License
--------
-The Deep Research Assistant is licensed under the [MIT License](https://example.com/license).
